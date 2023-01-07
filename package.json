@@ -1,0 +1,19 @@
+{
+  "name": "grud_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoldenManBel/GRUD_API.git"
+  },
+  "author": "Alexander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoldenManBel/GRUD_API/issues"
+  },
+  "homepage": "https://github.com/GoldenManBel/GRUD_API#readme"
+}
